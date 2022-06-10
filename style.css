@@ -1,0 +1,71 @@
+body{
+    background-image: url(/images/buildings-g3e8764d39_1920.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 16px;
+    
+}
+.contenair{
+    background-color: white;
+    width: 70%;
+    margin:auto;
+    opacity:0.9;
+}
+h1{
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 20px;
+}
+h2{
+    text-align: center;
+    border:1px solid black;
+    margin:0px;
+}
+h3{
+    text-align: center;
+    border: 1px solid black;
+    margin:0px;
+}
+h4{
+    text-align: center;
+    border:1px solid black;
+    margin:0px;
+    
+}
+section{
+    border:1px solid black;
+}
+section article>p{
+      font-weight: bold;
+      text-align: justify;
+}
+.information{
+    text-decoration: underline;
+    color:blue;
+    font-style: italic;
+}
+
+ul{
+    list-style-type: none;
+    text-align:center;
+    height: 50px;
+    line-height: 50px;
+}
+ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    padding:10px;
+    color:white;
+}
+header nav ul li{
+    display:inline-block;
+    
+}
+header{
+    background-color: blue;
+    
+}
+nav ul li:hover{
+    background-color: orangered;
+}
